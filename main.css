@@ -1,0 +1,19 @@
+table,tr,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table{
+	width: 20%;
+	height: 300px;
+	
+}
+td{
+	text-align: center;
+}
+#answer{
+	height: 10%;
+	background-color: skyblue;
+}
+#equal{
+	background-color: skyblue;
+}
